@@ -3,7 +3,10 @@ layout: post
 title: Useful Resources
 ---
 Best resource for Asp.net beginners by kud venkat resource.
+
 MVC signup process implementation Reference and usage of websecurity(http://www.thecodingguys.net/)
+
+Coursera,codeacademy,codeeval.
 
 How linq to sql works?
 
@@ -13,13 +16,17 @@ This application is going to store every row as object.
 
 Application---->LINQ(translator)---->Database(SQL)
     
-    
+What is mean by statefull protocol and stateless protocol?
+
+What is mean by web server?
+
+HTML5 features?(webstore feature)
+
+Difference between the javascript and java?
+
+How to create the classes in javascript?
+
+ 
+ 
  	 
 
-
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
