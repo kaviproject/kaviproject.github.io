@@ -2,7 +2,17 @@
 layout: post
 title: You're up and running!
 ---
-Its good tool for writing blogs from the github
+Best resource for Asp.net beginners by kud venkat resource.
+How linq to sql works?
+Basically linq is the translator.It will translates Application language in to the Database language.
+This application is going to store every row as object.
+
+Application
+    |
+    LINQ(translator)
+    |
+Database	 
+
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
