@@ -30,6 +30,12 @@ Difference between the f5 and ctrl f5?
 f5-->window will disapperaar
 ctrl+f5 -->it does not disappear
 
+What is differnect between c# and javascript?
+js we can represent as var there is no specific datatype.
+c#  here we are using the specific datatype for each variable.It is going to initialize the memory.
+
+
+
 linq to sql work ?
 
 Basically linq is the translator.It will translates Application language in to the Database language.
