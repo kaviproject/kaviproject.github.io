@@ -22,9 +22,13 @@ WebAPI(recurly,quickbook)
 Interesting courses in coursera
 1.start up engineering
 2.web architectures
+3.beginning for game programming in c#
 
 
 Interview Questions
+Difference between the f5 and ctrl f5?
+f5-->window will disapperaar
+ctrl+f5 -->it does not disappear
 
 linq to sql work ?
 
