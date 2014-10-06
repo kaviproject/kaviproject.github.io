@@ -30,10 +30,21 @@ Interesting courses in coursera
 <p>Once you will enter your third party credentials it is going to ask the permissions for adc.com</p>
 <p>Once you will grant permission it is going to create the access token and access security.</p>
 <p>OAuth tutorials</p>
-http://aaronparecki.com/articles/2012/07/29/1/oauth2-simplified
+<p>http://aaronparecki.com/articles/2012/07/29/1/oauth2-simplified</p>
+<p>OAUTH workflow</p>
+<p>once we will press on the login button in new application(website).</p>
+<p>It is going to redirect the 3rd party application like facebook,twitter.</p>
+<p>Once you will enter the facebook credentials.face book server is going to post the information to the new application server.</p>
+<p>secret key is the api-key.</p>
+<p>once the new application receives the post message it is going to the decrypt the message through the secret key and if it will success it is going to send some access token to the 3rd party (facebook).</p>
+<p>finally you can see the new application index page.</p>
+<p><b>Advantages of the oauth</b></p>
+<p>we do not need to remember new username and password.we can use our old credentials(facebook) </p>
+<p>we can improve the security.we are not sending username and password to the new website.we are exchanging the information. </p>
+</p>
 <b>Interview Questions</b>
 Difference between the f5 and ctrl f5?
-f5-->window will disapperaar
+f5-->window will disapear
 ctrl+f5 -->it does not disappear
 
 What is differnect between c# and javascript?
