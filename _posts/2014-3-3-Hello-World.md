@@ -7,6 +7,7 @@ Best resource for Asp.net beginners by kud venkat tutorilas and blog.
 
 MVC signup process implementation Reference and usage of websecurity(http://www.thecodingguys.net/)
 
+<b>Date Range slider resource link https://github.com/kaviproject/jquerydaterangeslider</b>
 Coursera,codeacademy,codeeval.
 
 My GITHUB Resources
@@ -42,6 +43,8 @@ Interesting courses in coursera
 <p>we do not need to remember new username and password.we can use our old credentials(facebook) </p>
 <p>we can improve the security.we are not sending username and password to the new website.we are exchanging the information. </p>
 </p>
+
+<b></b>
 <b>Interview Questions</b>
 Difference between the f5 and ctrl f5?
 f5-->window will disapear
