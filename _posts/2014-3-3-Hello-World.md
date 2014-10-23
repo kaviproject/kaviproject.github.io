@@ -25,6 +25,12 @@ Interesting courses in coursera
 2.web architectures
 3.beginning for game programming in c#
 
+<p>c# interview Questions?</p>
+<p>Difference between the absolute and relative layout difference?</p>
+<p>What is meant by delegate? </p>
+<p>What is meant by out?</p>
+<p></p>
+
 <p>OAuth working flow</p>
 <p>FOr example if you want to connect this website ade.com</p>
 <p>Instead of creating new account we can use 3rd party api for example facebook,twitter....etc</p>
