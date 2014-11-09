@@ -8,17 +8,18 @@ Best resource for Asp.net beginners by kud venkat tutorilas and blog.
 MVC signup process implementation Reference and usage of websecurity(http://www.thecodingguys.net/)
 
 <b>Date Range slider resource link https://github.com/kaviproject/jquerydaterangeslider</b>
-Coursera,codeacademy,codeeval.
+<b>Coursera,codeacademy,codeeval</b>
 
-My GITHUB Resources
+<b>My GITHUB Resources</b>
 
-1.railsignup process using ruby and rails(https://github.com/kaviproject/railsignup)
-2.CalculatorProgram_windowsApplication(https://github.com/kaviproject/CalculatorProgram_windowsApplication)
-3.JAVACLASSUML(https://github.com/kaviproject/JAVACLASSUML)
+<p>1.railsignup process using ruby and rails(https://github.com/kaviproject/railsignup)</p>
+<p>2.CalculatorProgram_windowsApplication(https://github.com/kaviproject/CalculatorProgram_windowsApplication)</p>
+<p>3.JAVACLASSUML(https://github.com/kaviproject/JAVACLASSUML)</p>
+<p>4.Localization and Globalization in c#(https://github.com/kaviproject/Localization-Globalization)</p>
 
-Responsive design tools(Bootsnip,Bootstrap)
+<b>Responsive design tools(Bootsnip,Bootstrap)</b>
 
-WebAPI(recurly,quickbook,shopify)
+<b>WebAPI(recurly,quickbook,shopify)</b>
 
 Interesting courses in coursera
 1.start up engineering
@@ -29,7 +30,10 @@ Interesting courses in coursera
 <p>Difference between the absolute and relative layout difference?</p>
 <p>What is meant by delegate? </p>
 <p>What is meant by out?</p>
-<p></p>
+<p>Difference between the absolute and relative and fixed layout?</p>
+<p>what is mean by jsonp?</p>
+<p>difference between the interface and abstract class? </p>
+<p>http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/various-ways-to-pass-data-from-controller-to-view-in-mvc/</p>
 
 <p>OAuth working flow</p>
 <p>FOr example if you want to connect this website ade.com</p>
@@ -75,7 +79,7 @@ What is the mean by ajax and advantages & disadvantages?
    
 <html>   
 <b>What is mean by statefull protocol and stateless protocol?</b>
-HTTp is stateless protocol.It is not storing the previous information.
+HTTP is stateless protocol.It is not storing the previous information.
 </html>
 
 What is mean by web server?
