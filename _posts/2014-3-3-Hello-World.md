@@ -98,11 +98,13 @@ what is mean by mvc?
 <p>Is js pass by value or pass by reference?</p>
 <p>difference bw padding and margin?</p>
 <p>difference bw == and ===?</p>
-<p>how do you use inheritance inn javascript?</p>
-<p>what is the use of different library usage in javascript?</p>
+<p>how do you use inheritance inn JavaScript?</p>
+<p>what is the use of different library usage in JavaScript?</p>
 <p>what is mean by JSON?</p>
 <p>where do we use json in application ?</p>
-<p>what is the use of angualr js?</p>
+<p>what is use of angualr js?</p>
+<p>Angular js is client side MVC application.</p>
+
 <p>how do you learn angular js?</p>
 
 <b>Difference between the visibility:hidden and display:none</b>
@@ -117,4 +119,111 @@ Replacing [style-tag-value] with display:none results in:
 test |   | test
  </p>
  	 
+<p>what is mean by data attrtibute in html</html><p/>
+<p><input type="text"</p>
+<p>where did you created object?explain scenario?</p>
+<p>Explain about clousure</p>
+<p>what kind of framework are you using?</p>
+
+c#
+<p>can you explain about the wcf?</p>
+<p>Explain about generic list?</p>
+<p>difference between string and stringbuilder?</p>
+<p>Inner join and outer join in sql?</p>
+<p>Session and cookie difference?</p>
+<p>difference between abstract and interface class?</p>
+<p>How do we test the web page performance (using code)?</p>
+<p>How do you insert the html5 in internet explorer?</p>
+<p>How to use responsive design for site?</p>
+<p>What is man by binding in angualr js?</p>
+<p>How to use the browser compatability?</p>
+<p>Explain about REST and json object?</p>
+<p>List jquery plugins?range slider</p>
+<p>Difference between waterfall and agile?</p>
+<p>Angular js learning web sites</p>
+<p>eggghead.io</p>
+<p>ng-newsletter.com</p>
+<p>The angular js magzine</p>
+<p>Angular-Js Learning</p>
+<p>ng-book (angular js learning book)</p>
+<p>Difference between the c and c++</p>
+<p>Difference between calloc and malloc?</p>
+<p>Difference between the (double(i)) and double(i)?</p>
+<p>what is mean by typedef?</p>
+<p>Difference between array and structure?</p>
+<p>Difference between stack and queue?</p>
+<p>What is mean by null?</p>
+<p>JavaScript data types?</p>
+<p>What is mean by function?</p>
+<p>What is mean by promise?</p>
+<p>What is mean by jsonp(JavaScript object notation padding)?</p>
+<p>JSONP is an interface used to request data from a server residing in different domain/p>
+
+<p>What is the use of strict mode?</p>
+
+<b>What is mean by anonymous function?</b>
+<p>Anonymous function is function that is declared without named identifier to refer it.we cannot initialize after the creation.</p>
+<p>syntax :var. kav=function(){}</p>
+<p>Anonymous functions are useful for creating closure.This function is used as arguments for other functions.</p>
+<p>for example:setTimeOut(function(){alert(time)},10000)</p>
+<p>sql views?why do we use the sql?</p>
+<p>Difference between textreader,stringreader,nooleanreader?</p>
+<p>What is mean by ORM?/p>
+<p>Difference between c# and JavaScript?</p>
+<p>Difference between Delete and truncate in SQl?/p>
+<p>Difference between ref and out?</p>
+<p>What is mean by local storage in html5?</p>
+<Questions>
+<p>Difference between session storage and local storage?</p>
+<p>Session storage will expire when browser close.Local storage does not have any 
+expiration date.local storage is preferred compared to the cookies./p>
+<p>Difference between the services and directives in angular js?</p>
+<p>What is mean by ng-repeat in angular js?</p>
+<p>var s1="1";<br/>
+alert(typeof s1);// string<br/>
+s1++;<br/>
+alert(typeof s1);//integer<br/>
+</p>
+<p>what is mean by ng-include?</p>
+<p>How to display the page with $(.document).loadcontent("abc.html");</p>
+<p>var a=10;
+func foo()
+{
+alert(a);//undefined
+var a=20;
+alert(a);//20
+}
+</p>
+<p>var obj1={firstname:"kavi"}</p>
+<p>var obj2={lastname:"reddy"};</p>
+<p>obj2.prototype=object.create(obj1);</p>
+<p>obj1.firstname="parupati"</p>
+
+<p>Matlab questions</p>
+<p>Differnece between the local function and anonymus function?</p>
+<p>What is mean by cell array?</p>
+<p>what kind of simulink subsystem?</p>
+<p>simulink configuration file in simulink?</p>
+<p>Matlab default data type?</p>
+<p>vectorization example?</p>
+<p>simulink sample time?</p>
+<p>How to check the browser compatability ?</p>
+<p>Using validators</p>
+<p>how to debug the css?</p>
+<p>Box model in css?</p>
+<p>What can i do improving the performance?</p>
+<ul>
+<li>sprit element</li>
+<li>javascript should be bottom of the page instead of header.</li>
+<li>Browser caching</li>
+<li>Compress images </li>
+</ul>
+<b>D3 important Questions</b>
+<ul>
+<li>Difference between jquery and D3?</li>
+<li>What is mean by path generator?</li>
+<li>D3 Domain ?</li>
+</ul>
+
+
 
