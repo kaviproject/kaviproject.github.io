@@ -223,6 +223,7 @@ alert(a);//20
 <li>Difference between jquery and D3?</li>
 <li>What is mean by path generator?</li>
 <li>D3 Domain ?</li>
+<li>Bubble Chart</li>
 </ul>
 
 
